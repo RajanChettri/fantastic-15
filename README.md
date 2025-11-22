@@ -6,4 +6,4 @@ this is Ecommerce App for Next Generation, this has Payment Integration from all
 this has the Top Notch Security Features added.
 </p>
 
-<p> &Copy;2025 HeroVired Pvt. Ltd. </p>
+<p> &copy; 2025 HeroVired Pvt. Ltd. </p>
